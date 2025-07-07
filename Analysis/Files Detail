@@ -1,0 +1,7 @@
+Python scripts for analysis are included.
+Files descriptions are as follows:
+ERAP2Pre-Processing.ipynb: Includes processing of big exome sequencing data using BCFtools, annotating genomic positions using GnomAD data and adding MAF calculated using PLINK in data.
+ERAP2Annotation.ipynb: Includes annotation of gentoypes from 0|1 binary digits to A|G etc using information from REF and ALT alleles.
+ERAP2haplotypes.ipynb: Includes detailed analysis of assembling haplotypes, calculating frequency in population and also the conversion of haplotypes to allotypes using protein consequences data.
+ERAP2hapsICD10.ipynb: Includes haplotypes ICD10 disease association analysis.
+ERAP2-haps Phylogenetics.ipnb: Includes multiple sequence alignment using clustalw and the phylogenetic tree analysis.
